@@ -1,0 +1,17 @@
+/runs
+detect.py
+detect_1.py
+opencv_lp_test.py
+yolov5l.pt
+yolov5m.pt
+yolov5x.pt
+/idea
+/__pycache__
+test_lp.txt
+warp.jpg
+LP_image
+LP_text
+detection_best.pt
+lp.pt
+last.pt
+recognition_best.pt
